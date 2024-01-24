@@ -1,0 +1,14 @@
+#ex1
+int
+#ex2
+str
+#ex3
+float
+#ex4
+list
+#ex5
+tuple
+#ex6
+dict
+#ex7
+bool
